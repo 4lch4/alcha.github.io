@@ -2,22 +2,34 @@
 layout: default
 ---
 
-# What We Do
+# Who Am I?
 
-We're yet another group of developers, however, we have a penchant for user-focused software that just _works_. Or in the rare case it doesn't, won't scare off the user with countless error messages or alerts ⚠
+Well, simply put, I'm yet another developer on the internet. I've been a professional developer since 2015 and an un-professional developer since 2009.
 
-We're able to bring an idea from the beginning stages all the way to fruition, all the while touching base with the client and ensuring the project is moving in a direction they're fond of.
+I am the founder of [HassleFree Solutions, LLC.][8] which is a freelance development firm that I run with [a few others][9].
 
-In the past we've done major refactoring of existing websites in order to move service providers, built mobile applications from the ground up using device native code, fixed bugs and added features in existing production applications, and managed a few of our own projects of interest.
+## Misc. Info
 
-# Projects
+I've been on the internet for as long as I can remember, so I'm sure there are a number of links I'll be missing but here are my primary presences online:
 
-## Tron
+| Site    | Url |
+|:-------:|-----|
+| GitHub  | [https://github.com/Alcha][0] |
+| Dev.to  | [https://dev.to/Alcha][1] |
+| Twitter | [https://twitter.com/4lch4][2] |
+| LinkedIn | [https://www.linkedin.com/in/devin-leaman-49622429/][3] |
+| Facebook | [https://www.facebook.com/4lch4][4] |
+| Discord | [Alcha#2625][5] |
+| Email 1 | [dleaman212@gmail.com][7] |
+| Email 2 | [alcha@hasslefree.solutions][6] |
 
-![Tron_Logo](assets/img/Tron_Logo.jpg)
-
-Tron is our longest lasting and most worked on project over the years. It's a Discord chat bot that uses the [Discord.js Commando][0] framework to make things a bit more enjoyable on a server.
-
-Nearly all of the commands added to the bot were suggestions from users at one point or another. Either by posting on the official Discord server, or by using the `+suggestion` command.
-
-[0]: https://github.com/discordjs/Commando
+[0]: https://github.com/Alcha
+[1]: https://dev.to/Alcha
+[2]: https://twitter.com/4lch4
+[3]: https://www.linkedin.com/in/devin-leaman-49622429/
+[4]: https://www.facebook.com/4lch4
+[5]: https://discord.gg/W72x4Ks
+[6]: mailto:alcha@hasslefree.solutions
+[7]: mailto:dleaman212@gmail.com
+[8]: https://hasslefree.solutions
+[9]: https://hasslefree.solutions/#the-team
