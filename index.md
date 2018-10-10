@@ -6,7 +6,7 @@ layout: default
 
 Well, simply put, I'm yet another developer on the internet. I've been a professional developer since 2015 and an un-professional developer since 2009.
 
-I am the founder of [HassleFree Solutions, LLC.][8] which is a freelance development firm that I run with [a few others][9].
+I am the founder and lead developer of [HassleFree Solutions, LLC.][8] which is a freelance development firm that I run with [a few others][9].
 
 ## Misc. Info
 
