@@ -35,4 +35,4 @@ I've been on the internet for as long as I can remember, so I'm sure there are a
 [7]: mailto:dleaman212@gmail.com
 [8]: https://hasslefree.solutions
 [9]: https://hasslefree.solutions/#the-team
-[10]: ./resume.md
+[10]: /resume

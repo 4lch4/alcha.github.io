@@ -97,7 +97,7 @@ I have a more thorough list of places to reach me on my [Home Page][14], however
 [11]: https://firebase.google.com/docs/firestore/
 [12]: https://www.mysql.com/
 [13]: https://www.mongodb.com/
-[14]: ./index.md
+[14]: /index
 [15]: mailto:dleaman212@gmail.com
 [16]: mailto:alcha@hasslefree.solutions
 [17]: https://openjdk.java.net/
