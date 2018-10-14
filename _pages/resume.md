@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+permalink: /resume/
+title: My Resume
 ---
 
 # Devin W. Leaman (Alcha)

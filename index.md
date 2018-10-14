@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+title: The Personal Site of Alcha/4lch4
 ---
 
 # Who Am I?
