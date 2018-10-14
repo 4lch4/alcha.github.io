@@ -16,7 +16,7 @@ title: My Resume
   - [Projects](#projects)
     - [Tron](#tron)
     - [iPowerShell](#ipowershell)
-    - [Contact Me](#contact-me)
+  - [Contact Me](#contact-me)
 
 ## About Me
 
@@ -89,7 +89,7 @@ I have been lucky enough to work on a wide variety of projects, such as creating
   - Java XMLPullParser
   - YouTube and Twitter SDK
 
-### Contact Me
+## Contact Me
 
 I have a more thorough list of places to reach me on my [Home Page][14], however, these are the best as I'm likely to see it sooner:
 
