@@ -8,7 +8,9 @@ categories: PowerShell, Node.js, JavaScript
 
 I've never been much of an OS/Platform purist. For as long as I can remember I have switched between Unix/Windows based systems on a regular basis for various reasons. With that said, I develop primarily on a Windows machine, and most of my projects end up running on a Linux server (Node modules), or on a Linux kernel (Android) of some sort, so being familiar with the *nix school of thought is quite helpful in the long run.
 
-![Coding_Image.png](https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6726719ee78dabe78033950d9f3f7145&auto=format&fit=crop&w=1950&q=80)
+![Coding_Image.png][7]
+
+_Photo by [Fotis Fotopoulos][5] on [Unsplash][6]_
 
 Without getting too thick in my personal examples of what it's like living between platforms, I'd instead like to share some of the stuff I've written or tools I use to make my life a bit easier. 
 
@@ -56,3 +58,6 @@ If you have any questions, comments, or concerns, please feel free to contact me
 [2]: https://github.com/Alcha/PowerShell/blob/master/Scripts/New-NodeModule.ps1
 [3]: https://facebook.github.io/jest/
 [4]: https://standardjs.com/
+[5]: https://unsplash.com/photos/LJ9KY8pIH3E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+[6]: https://unsplash.com/search/photos/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+[7]: https://i.imgur.com/S4E7XoP.png
