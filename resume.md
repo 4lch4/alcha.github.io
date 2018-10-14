@@ -4,6 +4,18 @@ layout: default
 
 # Devin W. Leaman (Alcha)
 
+- [Devin W. Leaman (Alcha)](#devin-w-leaman-alcha)
+  - [About Me](#about-me)
+  - [Skills](#skills)
+    - [Languages:](#languages)
+    - [Databases:](#databases)
+    - [Cloud Technology Services:](#cloud-technology-services)
+    - [Misc. Technologies:](#misc-technologies)
+  - [Projects](#projects)
+    - [Tron](#tron)
+    - [iPowerShell](#ipowershell)
+    - [Contact Me](#contact-me)
+
 ## About Me
 
 I am a software developer and founder/lead developer of [HassleFree Solutions, LLC.][01], a freelance development company that has a penchant for user-focused software that works seamlessly. I began my professional development career in 2015 at [SAPIEN Technologies, Inc.][02] (SAPIEN) after graduating from the [University of Arkansas at Fort Smith][00] with a Bachelor's degree in **Information Technology - Programming**. 
@@ -79,8 +91,7 @@ I have been lucky enough to work on a wide variety of projects, such as creating
 
 I have a more thorough list of places to reach me on my [Home Page][14], however, these are the best as I'm likely to see it sooner:
 
-- Email A: [dleaman212@gmail.com][15]
-- Email B: [alcha@hasslefree.solutions][16]
+- Email: [alcha@hasslefree.solutions][16]
 - Call or Text: **(479) 222-0481**
 
 [00]: https://uafs.edu/
