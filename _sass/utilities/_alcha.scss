@@ -1,0 +1,35 @@
+/* ==========================================================================
+   Layout
+   ========================================================================== */
+
+#skillContainer {
+  position: relative;
+  overflow: hidden;
+}
+
+.skill {
+  float: left;
+  width: 25%;
+  margin: 4%;
+}
+
+.skill img {
+  width: 100%;
+  display: block;
+}
+
+.skillName {
+  text-align: center;
+  margin-top: 1em;
+}
+
+.miscSkill {
+  float: left;
+  width: 10%;
+  margin: 1%;
+}
+
+.miscSkill img {
+  width: 100%;
+  display: block;
+}

@@ -27,27 +27,243 @@ I am a software developer and founder/lead developer of [HassleFree Solutions, L
 Here is a non-exhaustive list of the languages, tools, utilities, etc., that I am confident I can work with and/or have worked with extensively in the past:
 
 ### Languages:
-- [Java][17] **(6, 7, 8)**
-- [Node.js][18] **(ES5 & ES6)**
-- [PowerShell][19] **(2.0 - 6+)**
+<div id="skillContainer">
+  <div class="skill">
+    <a href="https://openjdk.java.net/" target="_blank">
+      <img alt="Java Logo" src="/assets/img/java.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://openjdk.java.net/" target="_blank">Java</a> <b>(6, 7, 8)</b>
+    </div>
+  </div>
+
+  <div class="skill">
+    <a href="https://nodejs.org/en/" target="_blank">
+      <img alt="Node.js Logo" src="/assets/img/nodejs.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://nodejs.org/en/" target="_blank">Node.js</a> <b>(ES5 & ES6)</b>
+    </div>
+  </div>
+
+  <div class="skill">
+    <a href="https://github.com/PowerShell/PowerShell" target="_blank">
+      <img alt="PowerShell Logo" src="/assets/img/powershell.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://github.com/PowerShell/PowerShell" target="_blank">PowerShell</a> <b>(2.0 - 6+)</b>
+    </div>
+  </div>
+</div>
 
 ### Databases:
-- [MongoDB][13]
-- [MySQL][12]
-- [Firebase Firestore][11]
+<div id="skillContainer">
+  <div class="skill">
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img alt="MongoDB Logo" src="/assets/img/mongodb.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://www.mongodb.com/" target="_blank">MongoDB</a>
+    </div>
+  </div>
+
+  <div class="skill">
+    <a href="https://www.mysql.com/" target="_blank">
+      <img alt="MySQL Logo" src="/assets/img/mysql.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://www.mysql.com/" target="_blank">MySQL</a>
+    </div>
+  </div>
+
+  <div class="skill">
+    <a href="https://firebase.google.com/docs/firestore/" target="_blank">
+      <img alt="Firebase Logo" src="/assets/img/firebase.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://firebase.google.com/docs/firestore/" target="_blank">Firebase Firestore</a>
+    </div>
+  </div>
+</div>
 
 ### Cloud Technology Services:
-- [Firebase][08]
-- [Amazon's AWS][09]
-- [DigitalOcean][10]
+<div id="skillContainer">
+  <div class="skill">
+    <a href="https://www.digitalocean.com/" target="_blank">
+      <img alt="DigitalOcean Logo" src="/assets/img/digitalocean.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://www.digitalocean.com/" target="_blank">DigitalOcean</a>
+    </div>
+  </div>
+
+  <div class="skill">
+    <a href="https://firebase.google.com/" target="_blank">
+      <img alt="Firebase Logo" src="/assets/img/firebase.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://firebase.google.com/" target="_blank">Firebase</a>
+    </div>
+  </div>
+
+  <div class="skill">
+    <a href="https://aws.amazon.com/" target="_blank">
+      <img alt="Amazon's AWS Logo" src="/assets/img/aws.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://aws.amazon.com/" target="_blank">Amazon's AWS</a>
+    </div>
+  </div>
+</div>
 
 ### Misc. Technologies:
-- Various 3rd party APIs
-  - [Twitter][03]
-  - [YouTube][04]
-  - [Imgur][05]
-  - [Giphy][06]
-  - [Reddit][07]
+<div id="skillContainer">
+  <div class="miscSkill">
+    <a href="https://github.com/Alcha" target="_blank">
+      <img alt="GitHub Logo" src="/assets/img/github.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://github.com/Alcha" target="_blank">GitHub</a>
+    </div>
+  </div>
+  
+  <div class="miscSkill">
+    <a href="https://bitbucket.org/4lch4/" target="_blank">
+      <img alt="Bitbucket Logo" src="/assets/img/bitbucket.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://bitbucket.org/4lch4/" target="_blank">Bitbucket</a>
+    </div>
+  </div>
+  
+  <div class="miscSkill">
+    <a href="https://git-scm.com/" target="_blank">
+      <img alt="Git Logo" src="/assets/img/git.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://git-scm.com/" target="_blank">Git</a>
+    </div>
+  </div>
+
+  <div class="miscSkill">
+    <a href="https://code.visualstudio.com/docs/extensions/overview" target="_blank">
+      <img alt="Visual Studio Code Logo" src="/assets/img/vscode.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://code.visualstudio.com/docs/extensions/overview" target="_blank">VS Code</a>
+    </div>
+  </div>
+
+  <div class="miscSkill">
+    <a href="https://developer.android.com/" target="_blank">
+      <img alt="Android Logo" src="/assets/img/android.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://developer.android.com/" target="_blank">Android</a>
+    </div>
+  </div>
+
+  <div class="miscSkill">
+    <a href="https://www.linux.org/" target="_blank">
+      <img alt="Linux Logo" src="/assets/img/linux.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://www.linux.org/" target="_blank">Linux</a>
+    </div>
+  </div>
+
+  <div class="miscSkill">
+    <a href="https://www.ubuntu.com/" target="_blank">
+      <img alt="Ubuntu Logo" src="/assets/img/ubuntu.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://www.ubuntu.com/" target="_blank">Ubuntu</a>
+    </div>
+  </div>
+
+  <div class="miscSkill">
+    <a href="https://www.debian.org/" target="_blank">
+      <img alt="Debian Logo" src="/assets/img/debian.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://www.debian.org/" target="_blank">Debian</a>
+    </div>
+  </div>
+</div>
+
+<div id="skillContainer">
+  <div class="miscSkill">
+    <a href="https://discordapp.com/developers/docs/intro" target="_blank">
+      <img alt="Discord Logo" src="/assets/img/discord.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://discordapp.com/developers/docs/intro" target="_blank">Discord</a>
+    </div>
+  </div>
+  
+  <div class="miscSkill">
+    <a href="https://developers.coinbase.com/" target="_blank">
+      <img alt="Coinbase Logo" src="/assets/img/coinbase.png" />
+    </a>
+    <div class="skillName">
+      <a href="https://developers.coinbase.com/" target="_blank">Coinbase</a>
+    </div>
+  </div>
+
+  <div class="miscSkill">
+    <a href="https://www.gimp.org/" target="_blank">
+      <img alt="Gimp Logo" src="/assets/img/gimp.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://www.gimp.org/" target="_blank">Gimp</a>
+    </div>
+  </div>
+
+  <div class="miscSkill">
+    <a href="https://developer.twitter.com/" target="_blank">
+      <img alt="Twitter Logo" src="/assets/img/twitter.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://developer.twitter.com/" target="_blank">Twitter</a>
+    </div>
+  </div>
+
+  <div class="miscSkill">
+    <a href="https://developers.google.com/youtube/" target="_blank">
+      <img alt="YouTube Logo" src="/assets/img/youtube.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://developers.google.com/youtube/" target="_blank">YouTube</a>
+    </div>
+  </div>
+
+  <div class="miscSkill">
+    <a href="https://developers.giphy.com/" target="_blank">
+      <img alt="Giphy Logo" src="/assets/img/giphy.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://developers.giphy.com/" target="_blank">Giphy</a>
+    </div>
+  </div>
+
+  <div class="miscSkill">
+    <a href="https://www.reddit.com/dev/api/" target="_blank">
+      <img alt="Reddit Logo" src="/assets/img/reddit.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://www.reddit.com/dev/api/" target="_blank">Reddit</a>
+    </div>
+  </div>
+
+  <div class="miscSkill">
+    <a href="https://apidocs.imgur.com/" target="_blank">
+      <img alt="Imgur Logo" src="/assets/img/imgur.svg" />
+    </a>
+    <div class="skillName">
+      <a href="https://apidocs.imgur.com/" target="_blank">Imgur</a>
+    </div>
+  </div>
+</div>
 
 ## Projects
 
