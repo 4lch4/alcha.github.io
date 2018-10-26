@@ -5,7 +5,7 @@ title: The Personal Site of Alcha/4lch4
 
 # Who Am I?
 
-Well, simply put, I'm yet another developer on the internet. I've been a professional developer since 2015 and an un-professional developer since 2009.
+Well, simply put, I'm a software developer. I've been a professional developer since 2015 and an un-professional developer since 2009.
 
 I am the founder and lead developer of [HassleFree Solutions, LLC.][00] which is a freelance development firm that I run with [a few others][01].
 
