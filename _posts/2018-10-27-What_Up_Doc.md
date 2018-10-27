@@ -9,17 +9,15 @@ date: 2018-10-27
 published: true
 ---
 
-![Cover_Image][21]
-
 _Cover photo by [rawpixel][19] on [Unsplash][20]_
 
 Well, it's certainly been too long since my last blog post, so this is a catch-all for the things I've done since I last published and what my plans are now that the holiday season is approaching.
 
 ## Tron
 
-Of course, I've been working on my baby, [Tron][0] by fixing bugs and adding a command that had been requested for some time:
+Of course, I've been working on my baby, [Tron][0] by fixing bugs and adding a command that had been requested for some time.
 
-- Bug Fixes
+- Bug Fixes:
   - [Fixed the `+adopt` command][5] to works as expected instead of not replying.
   - [Added Try/Catches][4] to help prevent **PermissionsDenied** errors that were crashing Tron.
   - [Fixed the `+reddit` command][3] so it properly displays an image from the requested subreddit.
@@ -28,7 +26,7 @@ Of course, I've been working on my baby, [Tron][0] by fixing bugs and adding a c
   - [Fixed the `+marriage` command][2] so it would accept input from the correct user.
   - [Fixed the `getImage()` function][7] so it would check the values properly.
   - [Fixed the `onCommandRun` event][8] so it wouldn't crash if the user tried running a command in DM's.
-- Added
+- Added:
   - [Added the Purge command][6] as requested by a few users.
 
 ## Enmeti
