@@ -12,14 +12,10 @@ url: "https://alcha.org" # the base hostname & protocol for your site
 githubUsername: Alcha
 twitterUsername: 4lch4
 
-# Build settings
-markdown: kramdown
-
-#themeColor: purple # green, blue, orange, purple, grey
-themeColor: green
+themeColor: green  # green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
-permalink: /:year/:month/:title
+permalink: /blog/:title
 markdown: kramdown
 include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
