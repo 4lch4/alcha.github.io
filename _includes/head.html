@@ -15,10 +15,10 @@
   <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico">
 
   {% if page.cover_img %}
-    <meta property="og:image" content="{{ site.url }}/{{ page.cover_img }}" />
+    <meta property="og:image" content="{{ page.cover_img }}" />
   {% endif %}
 
-  <meta property="og:description" content="{{ page.subtitle }}" />
+  <meta property="og:description" content="{{ page.description }}" />
 
   <style>
     #skillContainer {
