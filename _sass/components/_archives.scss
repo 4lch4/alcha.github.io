@@ -11,6 +11,10 @@
   @include fs--heading-1;
 }
 
+.c-archives__month {
+  @include fs--heading-2;
+}
+
 .c-archives__list {
   margin-bottom: 2.5rem;
   list-style: none;
