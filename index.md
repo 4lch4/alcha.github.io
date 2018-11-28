@@ -15,7 +15,6 @@ For a more formal "about me", check out my [Resume page][02] where you can get a
 
 I've been on the internet for as long as I can remember, so I'm sure there are a number of links I'll be missing but here are my primary presences online:
 
-
 [00]: https://hasslefree.solutions
 [01]: https://hasslefree.solutions/#the-team
 [02]: /resume
@@ -28,7 +27,7 @@ I've been on the internet for as long as I can remember, so I'm sure there are a
         <img alt="GitHub Logo" src="/assets/img/github.svg" />
     </a>
     <div class="contactSite">
-      <a href="https://github.com/Alcha" target="_blank">Twitter</a>
+      <a href="https://github.com/Alcha" target="_blank">GitHub</a>
     </div>
   </div>
 
