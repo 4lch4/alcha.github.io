@@ -27,6 +27,7 @@ I am a software developer and founder/lead developer of [HassleFree Solutions, L
 Here is a non-exhaustive list of the languages, tools, utilities, etc., that I am confident I can work with and/or have worked with extensively in the past:
 
 ### Languages:
+
 <div class="skillContainer">
   <div class="skill">
     <a href="https://openjdk.java.net/" target="_blank">
@@ -57,6 +58,7 @@ Here is a non-exhaustive list of the languages, tools, utilities, etc., that I a
 </div>
 
 ### Databases:
+
 <div class="skillContainer">
   <div class="skill">
     <a href="https://www.mongodb.com/" target="_blank">
@@ -87,6 +89,7 @@ Here is a non-exhaustive list of the languages, tools, utilities, etc., that I a
 </div>
 
 ### Cloud Technology Services:
+
 <div class="skillContainer">
   <div class="skill">
     <a href="https://www.digitalocean.com/" target="_blank">
@@ -117,6 +120,7 @@ Here is a non-exhaustive list of the languages, tools, utilities, etc., that I a
 </div>
 
 ### Misc. Technologies:
+
 <div class="skillContainer">
   <div class="miscSkill">
     <a href="https://github.com/Alcha" target="_blank">
@@ -257,7 +261,7 @@ I have been lucky enough to work on a wide variety of projects, such as creating
   - Java 7
   - Gradle
 - Notable Packages Used:
-  - nSoftware's [IP*Works! SSH Library][28]
+  - nSoftware's [IP\*Works! SSH Library][28]
   - Java XMLPullParser
   - YouTube and Twitter SDK
 

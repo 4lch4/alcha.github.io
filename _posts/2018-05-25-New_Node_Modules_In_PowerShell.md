@@ -6,13 +6,13 @@ date: 2018-05-25
 categories: PowerShell, Node.js, JavaScript
 ---
 
-I've never been much of an OS/Platform purist. For as long as I can remember I have switched between Unix/Windows based systems on a regular basis for various reasons. With that said, I develop primarily on a Windows machine, and most of my projects end up running on a Linux server (Node modules), or on a Linux kernel (Android) of some sort, so being familiar with the *nix school of thought is quite helpful in the long run.
+I've never been much of an OS/Platform purist. For as long as I can remember I have switched between Unix/Windows based systems on a regular basis for various reasons. With that said, I develop primarily on a Windows machine, and most of my projects end up running on a Linux server (Node modules), or on a Linux kernel (Android) of some sort, so being familiar with the \*nix school of thought is quite helpful in the long run.
 
 ![Coding_Image.png][7]
 
 _Photo by [Fotis Fotopoulos][5] on [Unsplash][6]_
 
-Without getting too thick in my personal examples of what it's like living between platforms, I'd instead like to share some of the stuff I've written or tools I use to make my life a bit easier. 
+Without getting too thick in my personal examples of what it's like living between platforms, I'd instead like to share some of the stuff I've written or tools I use to make my life a bit easier.
 
 This post explicitly covers a script I wrote and added to my **Current User, Current Host - console** [PowerShell Profile][1] to make initializing new Node.js modules much easier and specific to my preferences.
 

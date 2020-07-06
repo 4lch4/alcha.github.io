@@ -13,7 +13,7 @@ So, as I started my [100DaysOfCode][0] challenge, I [set out][1] to create an ex
 
 For example, I'm writing this article not only to post an update that I've got this [extension working][2], but to test it out in a "production" environment 😅 As a result, the first thing I need to change is so that I can `Alt+Tab` away from VSCode to actually _get_ the link I need, and the input box not disappear...
 
-Ahhh, [there we go][3] 🤗 Much better. 
+Ahhh, [there we go][3] 🤗 Much better.
 
 Up next, what if you try to add a link that's already been added? Why add it twice when we can just reference the [pre-existing link?][6]
 

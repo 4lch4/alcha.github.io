@@ -1,21 +1,46 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>
+    {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+  </title>
+  <meta
+    name="description"
+    content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"
+  />
 
-  <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,700|Roboto+Mono:400,500' rel='stylesheet' type='text/css'>
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,700|Roboto+Mono:400,500"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    rel="stylesheet"
+  />
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico">
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.4.1/css/all.css"
+    integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz"
+    crossorigin="anonymous"
+  />
+  <link
+    rel="canonical"
+    href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+  />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
+  href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link
+    rel="shortcut icon"
+    type="image/x-icon"
+    href="/assets/img/favicon.ico"
+  />
 
   {% if page.cover_image %}
-    <meta property="og:image" content="{{ page.cover_image }}" />
+  <meta property="og:image" content="{{ page.cover_image }}" />
   {% endif %}
 
   <meta property="og:description" content="{{ page.description }}" />
@@ -25,29 +50,29 @@
       position: relative;
       overflow: hidden;
     }
-    
+
     .skill {
       float: left;
       width: 25%;
       margin: 4%;
     }
-    
+
     .skill img {
       width: 100%;
       display: block;
     }
-    
+
     .skillName {
       text-align: center;
       margin-top: 1em;
     }
-    
+
     .miscSkill {
       float: left;
       width: 20%;
       margin: 2.5%;
     }
-    
+
     .miscSkill img {
       width: 100%;
       display: block;
@@ -57,18 +82,18 @@
       position: relative;
       overflow: hidden;
     }
-    
+
     .contact {
       float: left;
       width: 20%;
       margin: 2.5%;
     }
-    
+
     .contact img {
       width: 100%;
       display: block;
     }
-    
+
     .contactSite {
       text-align: center;
       margin-top: 1em;
@@ -87,7 +112,7 @@
       margin: 0px;
       margin-bottom: 10px;
       margin-right: 3px;
-      border: 1px solid #D3D6D2;
+      border: 1px solid #d3d6d2;
       padding: 5px 10px 5px 10px;
     }
 

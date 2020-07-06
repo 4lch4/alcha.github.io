@@ -46,7 +46,7 @@ So, this means we have 3 "tasks" to complete for our desired look:
 
 ## Where Do We Start?
 
-To be completely honest, as I started to write this post I realized I had no idea how I did this aside from having to overwrite a function in my profile called `global:prompt` I believe. So, I opened my profile script in [PowerShell Studio][6] which is located at `C:\Users\Alcha\Documents\WindowsPowerShell\Profile.ps1` and saved a backup copy (`Profile_Backup.ps1`). Then, a lovely `Ctrl + A → Backspace` so we have a clean slate. 
+To be completely honest, as I started to write this post I realized I had no idea how I did this aside from having to overwrite a function in my profile called `global:prompt` I believe. So, I opened my profile script in [PowerShell Studio][6] which is located at `C:\Users\Alcha\Documents\WindowsPowerShell\Profile.ps1` and saved a backup copy (`Profile_Backup.ps1`). Then, a lovely `Ctrl + A → Backspace` so we have a clean slate.
 
 First up, we need to find out how to customize the prompt itself, so a quick google search will get us started. The [first][2] [three][3] [results][4] were more than enough to get me what I needed. Personally, I prefer reading examples over documentation so after scanning over the three links, I chose to focus on the third as it seemed rather lengthy and full of examples. After reading a bit more, I realized it was more focused on [posh-git][5] specifically, so I switched back to [the Scripting Guys response][3] written by Sean Kearney.
 

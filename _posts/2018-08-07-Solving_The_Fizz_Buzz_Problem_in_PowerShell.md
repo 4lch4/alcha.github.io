@@ -15,7 +15,7 @@ I realized about two weeks ago that I hadn't written anything in a while and had
 
 I went to a get together with some of my best friends to eat tacos, drink some tequila, and just enjoy each others company. While I was there, one of my more technically oriented friends came up to me and we began talking about my work, playing Overwatch, and other nerdy things, when he mentions to me that he enjoyed reading my past articles. While he may not be a currently active developer and that some of the stuff goes over his head, I've "got a knack for it" as he said.
 
-I was elated to hear this, and haven't felt that way about a "project" aside from when I can add features to [Tron][0] that are heavily requested by the user base. It was enough to remind me the whole reason I started writing these is for the off-chance that someone like that *would* enjoy my writing and possibly get them more interested in programming, learn something new, or simply enjoy the read for the sake of reading something interesting.
+I was elated to hear this, and haven't felt that way about a "project" aside from when I can add features to [Tron][0] that are heavily requested by the user base. It was enough to remind me the whole reason I started writing these is for the off-chance that someone like that _would_ enjoy my writing and possibly get them more interested in programming, learn something new, or simply enjoy the read for the sake of reading something interesting.
 
 In the end, I'd like to say thank you again to that friend of mine for the encouraging words, as I probably wouldn't have had the motivation to start on this without them 💗
 
@@ -24,7 +24,7 @@ In the end, I'd like to say thank you again to that friend of mine for the encou
 ![Spiderman_Reading][1]
 _Photo by [Raj Eiamworakul][2] on [Unsplash][3]_
 
-And now we're off to the juicy bits of the article! 🤤 If you're unfamiliar with the [Fizz Buzz][4] interview problem, it's a relatively simple problem that is adept at testing your knowledge and fundamental understanding of a given programming language as well as showing the interviewer what kind of developer you are. 
+And now we're off to the juicy bits of the article! 🤤 If you're unfamiliar with the [Fizz Buzz][4] interview problem, it's a relatively simple problem that is adept at testing your knowledge and fundamental understanding of a given programming language as well as showing the interviewer what kind of developer you are.
 
 For example, do you prefer to toss a bunch of things at the wall and see what works and whittle away the excess? Or do you prefer to lay out a plan for the program before you even write some code? If you'd like more information on the things interviewers can gleam from a Fizz Buzz solution, feel free to check out [this article][5] from [Lionell Pack][6] on Forbes.
 
@@ -80,11 +80,11 @@ While he used **JavaScript**, the solution should be easily understandable and l
 
 ```javascript
 for (var i = 1; i <= 100; i++) {
-  var output = ""
+  var output = ''
 
-  if (i % 3 === 0) output += "Fizz"
-  if (i % 5 === 0) output += "Buzz"
-  if (output === "") output = i
+  if (i % 3 === 0) output += 'Fizz'
+  if (i % 5 === 0) output += 'Buzz'
+  if (output === '') output = i
 
   console.log(output)
 }

@@ -3,7 +3,6 @@
    ========================================================================== */
 
 .c-article {
-
 }
 
 .c-article__main {
@@ -18,7 +17,7 @@
 
   > * {
     margin-bottom: 1.8rem;
-    color: rgba($c__black, .7);
+    color: rgba($c__black, 0.7);
   }
 
   a:not(.c-btn) {
@@ -32,7 +31,8 @@
     background: $c__light-grey;
   }
 
-  ul, ol {
+  ul,
+  ol {
     margin-left: 40px;
   }
 }

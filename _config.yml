@@ -6,13 +6,13 @@ google_analytics: UA-127142225-1
 repository: Alcha/alcha.github.io
 
 email: alcha@hasslefree.solutions
-url: "https://alcha.org" # the base hostname & protocol for your site
+url: 'https://alcha.org' # the base hostname & protocol for your site
 
 # Social
 githubUsername: Alcha
 twitterUsername: 4lch4
 
-themeColor: green  # green, blue, orange, purple, grey
+themeColor: green # green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /blog/:title
