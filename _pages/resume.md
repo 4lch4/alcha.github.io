@@ -19,16 +19,6 @@ title: My Resume
 
 I am a software developer and founder/lead developer of [HassleFree Solutions, LLC.][01], a freelance development company that has a penchant for user-focused software that works seamlessly. I began my professional development career in 2015 at [SAPIEN Technologies, Inc.][02] (SAPIEN) after graduating from the [University of Arkansas at Fort Smith][00] with a Bachelor's degree in **Information Technology - Programming**.
 
-<p>Oh, and this is a test paragraph to see how quickly this page will update.</p>
-
-<iframe
-  src="https://discordapp.com/widget?id=325504841541746688&theme=dark"
-  width="350"
-  height="500"
-  allowtransparency="true"
-  frameborder="0"
-></iframe>
-
 ## Skills
 
 Here is a non-exhaustive list of the languages, tools, utilities, etc., that I am confident I can work with and/or have worked with extensively in the past:
